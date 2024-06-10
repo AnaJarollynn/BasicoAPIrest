@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carol\\aprendendoAPI\\aprendendoAPI.csproj",
+      "projectUniqueName": "c:\\Users\\carol\\aprendendoAPI\\BasicAPIrest\\aprendendoAPI.csproj",
       "projectName": "aprendendoAPI",
-      "projectPath": "C:\\Users\\carol\\aprendendoAPI\\aprendendoAPI.csproj",
+      "projectPath": "c:\\Users\\carol\\aprendendoAPI\\BasicAPIrest\\aprendendoAPI.csproj",
       "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carol\\aprendendoAPI\\obj\\",
+      "outputPath": "c:\\Users\\carol\\aprendendoAPI\\BasicAPIrest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
